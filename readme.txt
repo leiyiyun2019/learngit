@@ -9,4 +9,4 @@ to do more effort
 i am learnning
 make effort
 fix a bug
-
+learing git stash
