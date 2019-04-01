@@ -8,4 +8,4 @@ hello world
 to do more effort
 i am learnning
 make effort
-
+learing git stash
