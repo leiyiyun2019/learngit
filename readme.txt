@@ -6,4 +6,6 @@ Learn Git
 Creating a new branch is quick and simple
 hello world
 to do more effort
+i am learnning
+make effort
 
