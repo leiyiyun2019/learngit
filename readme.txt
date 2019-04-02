@@ -10,3 +10,5 @@ i am learnning
 make effort
 fix a bug
 learing git stash
+hahaha rebase
+why stuipd
